@@ -1,0 +1,45 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inputBox {
+    width: 90%;
+    border: none;
+    margin: 0px 0px 0px 5px;
+    padding: 10px;
+    background-color: white;
+}
+
+.inputDiv {
+    border-bottom: 1px solid black;
+    margin-top: 5px;
+}
+
+.pelement {
+    margin-top: 13px;
+    margin-left: 15px;
+}
+
+.wrapper1 {
+    display: flex;
+    align-items: center;
+}
+
+.btn2 {
+    background-color: darkblue;
+    color: white;
+    border: 1px solid darkblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    width: 120px;
+}
+
+.wrapper2 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
